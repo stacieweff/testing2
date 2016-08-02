@@ -35,7 +35,7 @@
     "time-grunt": "^1.0.0",
     "imagemin": "^4.0.0",
     "karma": "^1.1.1",
-    "grunt-karma": "*",
+    "grunt-karma": "*"
   },
   "engines": {
     "node": ">=0.10.0"
